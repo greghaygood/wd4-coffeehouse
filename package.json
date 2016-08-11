@@ -1,0 +1,19 @@
+{
+  "name": "wd4-coffeehouse",
+  "version": "1.0.0",
+  "description": "Coffee House Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greghaygood/wd4-coffeehouse.git"
+  },
+  "author": "Greg Haygood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greghaygood/wd4-coffeehouse/issues"
+  },
+  "homepage": "https://github.com/greghaygood/wd4-coffeehouse#readme"
+}
